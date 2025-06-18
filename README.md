@@ -23,5 +23,3 @@ Feel free to submit issues or pull requests if you find missing patterns or want
 ## License
 
 This template is released under the [EPLv1 License](LICENSE).
-
-```
