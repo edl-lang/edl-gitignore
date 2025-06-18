@@ -1,1 +1,1 @@
-# gitignore
+# EDL gitignore template
