@@ -1,0 +1,53 @@
+# EDL Package and Build System
+
+# Build artifacts
+/build/
+/dist/
+/out/
+*.out
+*.o
+*.obj
+*.bin
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
+# Package manager directories
+.epm/
+.cache/
+.lock/
+
+# Logs
+*.log
+
+# Environment-specific
+.env
+*.env.local
+*.secret
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage/test
+coverage/
+*.lcov
+tests/output/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.sw?
+
+# Custom EDL specific extensions
+*.edlc   # compiled EDL binary (EDL compiled)
+*.edlb   # EDL bytecode (if applicable)
